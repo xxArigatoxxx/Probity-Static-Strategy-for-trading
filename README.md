@@ -1,5 +1,4 @@
 # Probity-Static-Strategy-for-trading
-# XAUUSD DSP Mean-Reversion Trading System
 
 A quantitative, real-time automated trading framework for **XAUUSD (Gold)** on the 5-minute (M5) timeframe. This system combines **Digital Signal Processing (DSP)**, **Information Theory**, **GPU-accelerated Machine Learning (XGBoost + ONNX Runtime)**, and multi-layered **Risk Guardrails** directly integrated with **MetaTrader 5 (MT5)**.
 
