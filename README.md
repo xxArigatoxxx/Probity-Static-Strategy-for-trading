@@ -1,0 +1,1 @@
+# Probity-Static-Strategy-for-trading
